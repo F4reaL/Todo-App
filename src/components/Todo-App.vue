@@ -58,7 +58,7 @@ export default {
       availableStatuses: ["to-do", "in-progress", "finished"],
       tasks: [
         {
-          name: "Wake up Thuowng",
+          name: "Wake up Thương",
           status: "to-do",
         },
         {
